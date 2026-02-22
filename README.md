@@ -1,10 +1,10 @@
 # ckit
 
-A collection of lightweight, header-only C libraries. Drop a `.h` file into your project, `#include` it, and go — no build system, no dependencies, no setup.
+A collection of personal single-header C libraries
 
 ## Usage
 
-Each library is self-contained in a single header file. To use one, just copy it into your project:
+Each library is self-contained in a single header file. To use one, copy it in your project:
 
 ```c
 #include "window.h"
